@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://semihtrn4.github.io/seopagebacklink/sitemap.xml
